@@ -19,3 +19,5 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 **Aula_05_Cenário_Big_Data_Streaming_estruturado_usando_API_Python_DataFrames**
 
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5888526829093481/1459839019398593/2293074242061717/late7st.html
+
+Veja o material sobre Mineração de Processos
