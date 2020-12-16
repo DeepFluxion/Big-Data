@@ -20,4 +20,4 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5888526829093481/1459839019398593/2293074242061717/late7st.html
 
-Veja o material sobre Mineração de Processos
+Veja o material sobre [Mineração de Processos](https://github.com/DeepFluxion/Big-Data/blob/main/Notebooks/bupaR%20-%20An%C3%A1lise%20de%20Processos%20de%20Neg%C3%B3cios%20com%20R.ipynb)
